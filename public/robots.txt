@@ -1,0 +1,3 @@
+User-agent: *
+  Disallow:
+  Sitemap: https://oguzinsaat.com.tr/map.xml
