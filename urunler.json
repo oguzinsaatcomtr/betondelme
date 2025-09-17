@@ -1,0 +1,18 @@
+{
+  "path": "urunler",
+  "data": [],
+  "name": "Ürünler",
+  "index": 1,
+  "modulestatus": {
+    "img": false,
+    "footer": false,
+    "spot": false,
+    "icon": false,
+    "header": false,
+    "page": false,
+    "bgimg": false,
+    "detail": false,
+    "body": false
+  },
+  "desc": []
+}

@@ -1,0 +1,265 @@
+{
+  "data": [
+    {
+      "path": "page",
+      "name": "Sayfalar",
+      "index": 0,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": []
+      },
+      "modulestatus": {
+        "img": false,
+        "spot": false,
+        "icon": false,
+        "page": true,
+        "detail": true,
+        "bgimg": false,
+        "body": true
+      },
+      "desc": []
+    },
+    {
+      "path": "hizmetler",
+      "data": [
+        {
+          "path": "beton-kesme",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Beton Kesme"
+          },
+          "index": 0,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Beton Kesme</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Beton kesme hizmetimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak beton kesme işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Beton kesme hizmetimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.\n</div>"
+          },
+          "id": "zuhw8ftwhu",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "karot-delme",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Karot Delme"
+          },
+          "index": 1,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Karot Delme</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Karot delme hizmetimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak karot delme işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Karot delme hizmetimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "gew1d0jbfv",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "beton-kirma",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Beton Kırma"
+          },
+          "index": 2,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Beton Kırma</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Beton kırma hizmetimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak beton kırma işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Beton kırma hizmetimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "w8phaltrnm",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "fiber",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Fiber"
+          },
+          "index": 3,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Fiber</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Fiber hizmetlerimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak fiber uygulamalarında kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Fiber hizmetlerimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "w6vr2ebyp5",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "kimyasal-dubel-filiz-ekimi",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Kimyasal Dübel Filiz Ekimi"
+          },
+          "index": 4,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Kimyasal Dübel Filiz Ekimi</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Kimyasal dübel filiz ekimi hizmetimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak kimyasal dübel filiz ekimi işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Kimyasal dübel filiz ekimi hizmetimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "lxew8xq13b",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "saha-betonu",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Saha Betonu"
+          },
+          "index": 5,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Saha Betonu</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Saha betonu hizmetimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak saha betonu dökümünde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Saha betonu hizmetimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "fhf6sxg4f9",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "spor-sahasi",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Spor Sahası"
+          },
+          "index": 6,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Spor Sahası</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Spor sahası inşaatında, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak spor sahası yapımında kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Spor sahası projelerimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik alanlar inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "dmr4lz5z4a",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "sukulesi-yikim",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Sukulesi Yıkım"
+          },
+          "index": 7,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Sukulesi Yıkım</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Sukulesi yıkım hizmetimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak sukulesi yıkım işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Sukulesi yıkım hizmetimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "dsamwg14j7",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "sap-ve-bina-tevsiye",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Şap ve Bina Tevsiye"
+          },
+          "index": 8,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Şap ve Bina Tevsiye</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Şap ve bina tevsiye hizmetimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak şap dökümünde ve bina tevsiye işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Şap ve bina tevsiye hizmetimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "hxp1j3smlb",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "yalitim",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Yalıtım"
+          },
+          "index": 9,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Yalıtım</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Yalıtım hizmetlerimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak yalıtım işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Yalıtım hizmetlerimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "qoft958c4x",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        },
+        {
+          "path": "zemin-kaplama",
+          "img": "index.jpg",
+          "name": {
+            "tr": "Zemin Kaplama"
+          },
+          "index": 10,
+          "desing": {
+            "footer": [],
+            "header": [],
+            "body": []
+          },
+          "text": {
+            "tr": "<h1>Zemin Kaplama</h1>\n\n<div>Gaziantep, sanayi alanında Türkiye'nin en büyük şehirlerinden biri olarak öne çıkmaktadır. Son yıllarda aldığı yoğun göç ve artan nüfus ile birlikte inşaat sektöründe de Türkiye'nin en büyük şehirleri arasında yerini almıştır. Bu dinamik şehirde, Oğuz İnşaat olarak 20 yıllık tecrübemiz ve son teknoloji makinelerimizle sektörün öncüsü olma yolunda emin adımlarla ilerliyoruz.</div>\n\n<div>Zemin kaplama hizmetlerimizde, müşterilerimize yenilikçi çözüm önerileri sunarak, 2010 yılından bu yana kendimizi sürekli yeniliyor ve piyasa şartlarına uyum sağlamak amacıyla teknolojiyi ve yenilikleri şirketimizin kurumsal yapısına entegre etmeyi ilke ediniyoruz. Oğuz İnşaat olarak zemin kaplama işlemlerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket ediyoruz.</div>\n\n<div>Büyüyen inşaat sektöründe sağlam adımlarla yerini alan Oğuz İnşaat, çeşitli başarılara imza atmayı hedeflemektedir. Müşteri memnuniyetini ön planda tutan firmamız, projelerinde kalite, güvenlik ve çevre dostu yaklaşımlarla hareket etmektedir. Amacımız, müşterilerimize en iyi hizmeti sunarak onların beklentilerini aşmak ve sektörde kalıcı bir iz bırakmaktır.</div>\n\n<div>Yenilikçi yaklaşımlarımız ve teknolojik yatırımlarımız sayesinde, Oğuz İnşaat olarak sektördeki liderliğimizi sürdürmeyi ve daha büyük başarılara ulaşmayı amaçlıyoruz. Ekibimiz, alanında uzman profesyonellerden oluşmakta olup, her proje için titizlikle çalışmaktadır. Kaliteli hizmet anlayışımız ve müşteri odaklı yaklaşımımız ile geleceğe güvenle bakıyoruz.</div>\n\n<div>Oğuz İnşaat, Gaziantep'in hızla büyüyen inşaat sektöründe yenilikçi çözümler sunarak, sektördeki konumunu güçlendirmeye devam edecektir. Zemin kaplama hizmetlerimizde modern mimari ve mühendislik tekniklerini kullanarak, güvenilir ve estetik yaşam alanları inşa ediyoruz. Her geçen gün büyüyen ve gelişen firmamız, siz değerli müşterilerimizin desteğiyle daha büyük başarılara imza atmak için çalışmaktadır.</div>"
+          },
+          "id": "dt15brimo1",
+          "category": "",
+          "externalUrl": "",
+          "status": "play"
+        }
+      ],
+      "name": "Hizmetler",
+      "index": 1,
+      "desing": {
+        "footer": [],
+        "header": [],
+        "body": [
+          "bgnl7x",
+          "p8tzbi"
+        ]
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true,
+        "body": false
+      },
+      "desc": []
+    }
+  ]
+}

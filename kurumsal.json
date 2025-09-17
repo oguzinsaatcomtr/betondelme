@@ -1,0 +1,21 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "zoymex",
+      "cezkkg"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "bgimg": true,
+    "img": false,
+    "detail": true,
+    "body": true
+  }
+}

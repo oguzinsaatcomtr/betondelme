@@ -1,0 +1,27 @@
+{
+  "domain": "oguzinsaat.com.tr",
+  "name": "Oğuz inşaat Gaziantep",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "user": false,
+  "order": false,
+  "category": "Eticaret",
+  "description": {
+    "tr": "Profesyonel beton delme ve kesme hizmetleri sunan firmamız, inşaat projeleriniz için hızlı ve güvenilir çözümler sunar. Beton delme, kesme ve kırma işlemlerinde en son teknolojiyi kullanarak uygun fiyatlarla hizmet veriyoruz. Daha fazla bilgi ve fiyat teklifi almak için hemen bizimle iletişime geçin!"
+  },
+  "keyword": {
+    "tr": "Beton delme, Beton kesme, İnşaat delme, İnşaat kesme, Beton kırma,Delme hizmeti, Kesme hizmeti, Beton delme şirketi, Beton kesme firması, Delme makinesi, Kesme makinesi, Delme firması, Kesme şirketi, Beton delme Gaziantep, Beton kesme Gaziantep"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "path": "footer-1",
+      "name": "Footer 1",
+      "index": 0,
+      "id": "uw1uvp",
+      "local": "footer",
+      "desing": {
+        "color": "#3586ff"
+      },
+      "category": "footer",
+      "data": []
+    },
+    {
+      "path": "slider",
+      "data": [
+        {
+          "img": "1.jpg"
+        },
+        {
+          "img": "2.jpg"
+        },
+        {
+          "img": "3.jpg"
+        },
+        {
+          "img": "4.jpg"
+        }
+      ],
+      "name": "Slider",
+      "index": 1,
+      "id": "y63z4n",
+      "desing": {},
+      "local": "header",
+      "category": "slider"
+    },
+    {
+      "index": 2,
+      "name": "Menü",
+      "path": "menu",
+      "desing": {
+        "logo": "logo.png",
+        "url": "iletisim"
+      },
+      "id": "ehvw06",
+      "local": "header",
+      "category": "menu"
+    },
+    {
+      "path": "contact",
+      "color": "",
+      "data": [
+        {
+          "icon": "phone",
+          "text": "0532 172 69 19"
+        },
+        {
+          "icon": "phone",
+          "text": "0532 483 52 27"
+        },
+        {
+          "icon": "map",
+          "text": "Zeytinli mah. Çetin Emeç cad. No : 18 Şehitkamil / Gaziantep"
+        }
+      ],
+      "name": "İletişim",
+      "index": 3,
+      "desing": {
+        "color": "#15436097",
+        "name": {
+          "tr": "Bize Ulaşın"
+        }
+      },
+      "id": "edcnst",
+      "local": "body",
+      "category": "contact"
+    },
+    {
+      "path": "page-list",
+      "name": "Sayfa Listesi Kare",
+      "index": 4,
+      "desing": {
+        "page": "hizmetler",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1"
+      },
+      "id": "rq5be6",
+      "local": "body",
+      "category": "page list"
+    },
+    {
+      "path": "page-text",
+      "name": "Text",
+      "index": 5,
+      "id": "bgnl7x",
+      "local": "body",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "menu-active": "#1e3046",
+        "category": "page"
+      },
+      "category": "page"
+    },
+    {
+      "index": 6,
+      "name": "Tek Resimlik",
+      "path": "img-one",
+      "desing": {
+        "img": "reklam.jpg",
+        "margin": "60px 0px 10px 0px"
+      },
+      "id": "p8tzbi",
+      "local": "body",
+      "category": "module"
+    },
+    {
+      "index": 7,
+      "name": "Referanslarımız",
+      "path": "module-slider-list",
+      "desing": {
+        "aspect-ratio": "1/1",
+        "name": {
+          "tr": "Referanslarımız"
+        },
+        "size": 6,
+        "button": "true",
+        "color1": "#fff",
+        "color2": "#e9e9e9"
+      },
+      "id": "fpsk05",
+      "local": "body",
+      "data": [
+        {
+          "img": "1.jpg"
+        },
+        {
+          "img": "2.jpg"
+        },
+        {
+          "img": "3.jpg"
+        },
+        {
+          "img": "4.jpg"
+        },
+        {
+          "img": "5.jpg"
+        },
+        {
+          "img": "6.jpg"
+        },
+        {
+          "img": "7.jpg"
+        },
+        {
+          "img": "8.jpg"
+        },
+        {
+          "img": "9.jpg"
+        },
+        {
+          "img": "10.jpg"
+        },
+        {
+          "img": "11.jpg"
+        },
+        {
+          "img": "12.jpg"
+        }
+      ],
+      "category": "slider"
+    },
+    {
+      "index": 8,
+      "name": "Whatsapp",
+      "path": "whatsapp",
+      "desing": {
+        "number": "905321726919",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "position": "fixed",
+        "color": "#25D366",
+        "z_index": 10000,
+        "responsive": true
+      },
+      "id": "qcitbj",
+      "local": "footer",
+      "category": "contact",
+      "data": []
+    }
+  ]
+}
