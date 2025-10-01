@@ -2,20 +2,178 @@
   "name": "Kurumsal",
   "path": "kurumsal",
   "desc": [],
-  "data": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "pathnext": "",
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Misyon"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Vizyon"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalite-politikamiz",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilik-politikasi",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisisel-veriler",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanici-haklari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasal-uyari",
+      "category": "kurumsal",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
+      "icon": "home",
+      "spot": {
+        "tr": ""
+      },
+      "desc": {}
+    }
+  ],
   "index": 2,
   "desing": {
     "header": [],
     "body": [
-      "zoymex",
-      "cezkkg"
+      "lqj4q4"
     ],
     "footer": []
   },
   "modulestatus": {
-    "bgimg": true,
-    "img": false,
-    "detail": true,
-    "body": true
+    "detail": true
   }
 }

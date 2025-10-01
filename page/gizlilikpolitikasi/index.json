@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Gizlilik Politikası"
+  },
+  "status": "play",
+  "id": "gizlilikpolitikasi",
+  "path": "gizlilik-politikasi",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Gizlilik Politikamız</h2>\n    <p style=\"font-size: 16px;\">\n        Web sitemizi ziyaret ettiğinizde, sitemizi kullanımınızı ve sitemizde sunulan hizmetleri geliştirmek amacıyla çerezler (cookies) aracılığıyla bazı bilgiler toplanmaktadır. Bu bilgiler, kimlik bilgileriniz hariç olmak üzere, sitemizde yer alan hizmetlerin daha iyi sunulması ve kullanıcı deneyiminin iyileştirilmesi amacıyla kullanılmaktadır. Çerezler, kullanıcı tercihlerinizi hatırlamak, sitemizin işleyişini optimize etmek ve size daha iyi bir deneyim sunmak için kullanılmaktadır.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Toplanan bilgiler, üçüncü taraflarla paylaşılmamakta olup, yalnızca sitemizin performansını artırmak ve hizmetlerimizi geliştirmek amacıyla kullanılmaktadır. Kullanıcılar, tarayıcı ayarlarını değiştirerek çerezlerin kullanımını engelleyebilirler. Ancak, bu durumda sitemizin bazı bölümlerinin düzgün çalışmayabileceğini unutmamanız gerekir.\n    </p>\n    <p style=\"font-size: 16px;\">\n        Gizliliğiniz bizim için son derece önemlidir. Kişisel bilgilerinizin güvenliğini sağlamak için gerekli teknik ve idari önlemleri alıyoruz. Gizlilik Politikamız ile ilgili sorularınız ya da endişeleriniz varsa, bizimle iletişime geçebilirsiniz.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 4,
+  "icon": "home",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-01T02:19:45.034Z",
+  "date": "2025-10-01T02:13:33.565Z"
+}

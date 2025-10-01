@@ -1,13 +1,16 @@
 {
   "data": [
     {
-      "path": "footer-1",
-      "name": "Footer 1",
       "index": 0,
+      "name": "Footer 1",
+      "path": "footer-1",
       "id": "uw1uvp",
       "local": "footer",
       "desing": {
-        "color": "#3586ff"
+        "bgcolor": "#09579a",
+        "color": "#fff",
+        "img": "",
+        "imgwidth": "250px"
       },
       "category": "footer",
       "data": []
@@ -31,21 +34,60 @@
       "name": "Slider",
       "index": 1,
       "id": "y63z4n",
-      "desing": {},
+      "desing": {
+        "delay": 3000
+      },
       "local": "header",
       "category": "slider"
     },
     {
       "index": 2,
       "name": "Menü",
-      "path": "menu",
+      "path": "menu-4",
       "desing": {
         "logo": "logo.png",
-        "url": "iletisim"
+        "color": "#09579a",
+        "height": "100px",
+        "background-color": "#e9e9e9"
       },
       "id": "ehvw06",
       "local": "header",
-      "category": "menu"
+      "category": "menu",
+      "data": [
+        {
+          "name": {
+            "tr": "Bizi hemen arayın"
+          },
+          "spot": "+90 342 221 00 02",
+          "icon": "phone",
+          "externalUrl": "",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "Bize yazın"
+          },
+          "spot": "info@{{domain}}",
+          "icon": "mail",
+          "url": "info@{{domain}}",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        },
+        {
+          "name": {
+            "tr": "İncilipınar Mah. Şehit Yusuf Erin Cad."
+          },
+          "spot": "Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep",
+          "icon": "location_on",
+          "externalUrl": "",
+          "titlecolor": "#000",
+          "spotcolor": "#000",
+          "iconcolor": "#000"
+        }
+      ]
     },
     {
       "path": "contact",
@@ -192,6 +234,22 @@
       "local": "footer",
       "category": "contact",
       "data": []
+    },
+    {
+      "index": 9,
+      "name": "Page Desing 5",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "32",
+        "backgroundcolor": "#000",
+        "menu-active": "#09579a",
+        "category": "kurumsal"
+      },
+      "id": "lqj4q4"
     }
   ]
 }

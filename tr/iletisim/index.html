@@ -15,8 +15,8 @@
   <meta property="og:description" content="" />
   <meta property="og:image" content="https://oguzinsaat.com.tr/img/icon.png" />
   <meta name="robots" content="index, follow" />
-  <link rel="stylesheet" href="/src/css.css?v=b0t45" />
-  <link rel="shortcut icon" href="/img/icon.png?v=b0t45" type="image/png" />
+  <link rel="stylesheet" href="/src/css.css?v=wytf0" />
+  <link rel="shortcut icon" href="/img/icon.png?v=wytf0" type="image/png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap"
@@ -26,67 +26,73 @@
   <script src="/src/swiper-bundle.min.js"></script>
   
 
-  <script type="text/javascript" src="/src/firebase.js?v=b0t45"></script>
-<link rel="stylesheet" href="style.css?v=b0t45">
+  <script type="text/javascript" src="/src/firebase.js?v=wytf0"></script>
+<link rel="stylesheet" href="style.css?v=wytf0">
 </head>
 
 <body>
-  <div id="header"><div class="kcbou">
-  <div class="kcboutitle">
-    <div class="kcboutitlebody">
-      <div>Beton Delme inşaat Gaziantep Web Sitemize Hoşgeldiniz</div>
-      <div class="kcboutitlebodylang">
+  <div id="header"><div class="zfi2d">
+  <div class="zfi2dtitle">
+    <div class="zfi2dtitlebody">
+      <div class="zfi2dtitlebodytitle">
+        Beton Delme inşaat Gaziantep Web Sitemize Hoşgeldiniz
+      </div>
+      <div class="zfi2dtitlebodylang">
         <ul>
-          <li><a href="/tr/"><img height="25" src="/src/lang/tr.png" alt="tr"></a></li>
+          <li><a href="/tr/"><img height="25" src="/src/lang/tr.png"  alt="tr"></a></li>
         </ul>
       </div>
     </div>
   </div>
-  <div class="kcboubody">
-    <a href="/tr/"
-      ><img
-        src="/img/betondelme.png?v=b0t45"
-        height="70"
-        alt="Beton Delme inşaat Gaziantep Logo"
-    /></a>
-  </div>
-  <div class="kcboumenu">
-    <div class="kcboumenulistbody">
-      <div class="kcboumenulist">
-        <ul>
-          <a href="/tr/" >Anasayfa</a><a href="/tr/hakkimizda/">Hakkımızda </a><a href="/tr/hizmetlerimiz/">Hizmetlerimiz </a><a class="kcbou-menu-active" href="/tr/iletisim/">İletişim</a>
-        </ul>
-      </div>
+  <div class="zfi2dChildren">
+    <div class="zfi2dbody">
+      <a href="/tr/"><img src="/img/betondelme.png?v=wytf0" class="zfi2dbodylogo" alt="Beton Delme inşaat Gaziantep Logo" /></a>
     </div>
-    <a href="/tr/iletisim/" class="kcboumenucontact">
-      <div class="kcboumenucontacttitle">Bize Ulaşın</div>
-      <span class="material-symbols-outlined"> arrow_forward_ios </span>
-    </a>
+    <div class="zfi2dmenumobil">
+      <div class="material-symbols-outlined">menu</div>
+    </div>
+    <div class="zfi2dmenulist">
+      <ul>
+        <a href="/tr/" class="zfi2dmenuitem">Anasayfa </a><a href="/tr/hakkimizda/" class="zfi2dmenuitem">Kurumsal</a><a href="/tr/hizmetlerimiz/" class="zfi2dmenuitem">Hizmetlerimiz</a><a href="/tr/iletisim/" class="zfi2dmenuitem zfi2dmenuactive">İletişim</a>
+      </ul>
+    </div>
   </div>
 </div>
 
+<script>
+  document
+    .querySelector(".zfi2dmenumobil")
+    .addEventListener("click", function () {
+      const menu = document.querySelector(".zfi2dmenulist");
+      if (menu.style.display === "flex") {
+        menu.style.display = "none";
+      } else {
+        menu.style.display = "flex";
+      }
+    });
+</script>
 </div>
-  <div id="content"><div class="mrbfm">
-  <div class="mrbfm-body">
-    <div class="mrbfm-body-map-image"></div>
-    <div class="mrbfm-container">
-      <div class="mrbfm-container-body">
-        <div class="mrbfm-container-title">Bize Ulaşın</div>
-        <div class="mrbfm-container-list">
+  <div id="content"><div class="vsqqd">
+  <div class="vsqqd-body">
+    <div class="vsqqd-body-map-image"></div>
+    <div class="vsqqd-container">
+      <div class="vsqqd-container-body">
+        <div class="vsqqd-container-title">Bize Ulaşın</div>
+        <div class="vsqqd-container-list">
    <div>
     <span class="material-symbols-outlined">
          phone
     </span>
   </div>
     <div>0532 172 69 19</div>
-  </div><div class="mrbfm-container-list">
+  </div><div class="vsqqd-container-list">
    <div>
     <span class="material-symbols-outlined">
          phone
     </span>
   </div>
     <div>0532 483 52 27</div>
-  </div><div class="mrbfm-container-list">
+  </div><div class="vsqqd-container-list">
    <div>
     <span class="material-symbols-outlined">
          map
@@ -97,7 +103,7 @@
       </div>
     </div>
   </div>
-  <div class="mrbfm-background-overlay"></div>
+  <div class="vsqqd-background-overlay"></div>
 </div>
 
 </div>
@@ -132,6 +138,15 @@
     <div class="wave" id="wave4"></div>
   </div>
   <ul class="social-icon">
+
+
+
+    
+    
+
+ 
+
+
     <li class="social-icon__item">
       <a class="social-icon__link" href="#">
         <ion-icon name="logo-facebook"></ion-icon>
@@ -154,7 +169,7 @@
     </li>
   </ul>
   <ul class="menu">
-    <li class="menu__item"><a class="menu__link" href="/tr">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/hakkimizda">Hakkımızda</a></li><li class="menu__item"><a class="menu__link" href="/tr/hizmetlerimiz">Hizmetlerimiz</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
+    <li class="menu__item"><a class="menu__link" href="/tr">Anasayfa</a></li><li class="menu__item"><a class="menu__link" href="/tr/kurumsal">Kurumsal</a></li><li class="menu__item"><a class="menu__link" href="/tr/hizmetlerimiz">Hizmetlerimiz</a></li><li class="menu__item"><a class="menu__link" href="/tr/iletisim">İletişim</a></li>
   </ul>
   <p>Beton Delme inşaat Gaziantep 2025 cognite. &copy;</p>
 </footer>
@@ -178,7 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 
-<script type="text/javascript" src="/src/js.js?v=b0t45"></script>
-<script src="/src/cookie.js?v=b0t45"></script>
+<script type="text/javascript" src="/src/js.js?v=wytf0"></script>
+<script src="/src/cookie.js?v=wytf0"></script>
 
 </html>

@@ -260,6 +260,23 @@
         "body": false
       },
       "desc": []
+    },
+    {
+      "name": "Kurumsal",
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "lqj4q4"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "detail": true
+      }
     }
   ]
 }

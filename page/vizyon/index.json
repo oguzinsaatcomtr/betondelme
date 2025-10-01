@@ -1,0 +1,31 @@
+{
+  "name": {
+    "tr": "Vizyon"
+  },
+  "status": "play",
+  "id": "vizyon",
+  "path": "vizyon",
+  "category": "kurumsal",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Vizyonumuz</h2>\n    <p style=\" font-size: 16px;\">\n        Vizyonumuz, sektörümüzdeki en güvenilir ve tercih edilen firma olmaktır. Bunun için, iş süreçlerimizi sürekli gözden geçiriyor, iyileştiriyor ve geliştirmeye odaklanıyoruz. Müşterilerimizin geri bildirimlerini dikkate alarak, ihtiyaçlarına en uygun çözümleri sunmak için çaba gösteriyoruz. Müşteri odaklı bir yaklaşım benimsememiz, işimizi daha da büyütmemize yardımcı oluyor ve sektördeki konumumuzu güçlendiriyor. Bizimle çalışan her müşteri, kalite ve güven arayışında olduğu için, onlara her zaman en iyi deneyimi sunmayı amaçlıyoruz.\n    </p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 2,
+  "icon": "home",
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "spot": {
+    "tr": ""
+  },
+  "update": "2025-10-01T02:19:45.030Z",
+  "date": "2025-10-01T02:13:33.557Z"
+}
