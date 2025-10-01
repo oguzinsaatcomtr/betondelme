@@ -1,17 +1,17 @@
 
-  .ewdu2menumobil {
+  .r4o6omenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .ewdu2Children {
+  .r4o6oChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .ewdu2 {
+  .r4o6o {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .ewdu2title {
+  .r4o6otitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .ewdu2titlebody {
+  .r4o6otitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ewdu2titlebodytitle {
+  .r4o6otitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ewdu2titlebodylang {
+  .r4o6otitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ewdu2titlebodylang ul {
+  .r4o6otitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ewdu2body {
+  .r4o6obody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .ewdu2menulist {
+  .r4o6omenulist {
     display: block;
     background-color: #09579a;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .ewdu2menubody {
+  .r4o6omenubody {
     width: 100%;
     background-color: #09579a;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .ewdu2menulist ul {
+  .r4o6omenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .ewdu2menulist ul a {
+  .r4o6omenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .ewdu2menulist ul a:hover {
+  .r4o6omenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ewdu2menuitem {
+  .r4o6omenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .ewdu2menuactive {
+  .r4o6omenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .ewdu2bodylogo {
+  .r4o6obodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .ewdu2menumobil {
+    .r4o6omenumobil {
       display: none !important;
     }
 
-    .ewdu2menulist {
+    .r4o6omenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ewdu2menumobil {
+    .r4o6omenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .ewdu2menumobil div {
+    .r4o6omenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .ewdu2menulist {
+    .r4o6omenulist {
       display: none;
     }
 
-    .ewdu2body {
+    .r4o6obody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .ewdu2Children {
+    .r4o6oChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .ewdu2menulist ul a {
+    .r4o6omenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .ewdu2menu {
+    .r4o6omenu {
       overflow-x: auto;
     }
 
-    .ewdu2menulist ul {
+    .r4o6omenulist ul {
       flex-direction: column;
     }
 
-    .ewdu2bodylogo {
+    .r4o6obodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,13 +192,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ewdu2menulist ul a {
+    .r4o6omenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .hsi4e {
+  .yfkml {
     width: var(--max);
     display: flex;
     flex-direction: column;
@@ -206,7 +206,7 @@
     margin-top: 20px;
   }
   @media screen and (max-width: 1024px) {
-    .hsi4e {
+    .yfkml {
       width: calc(100% - 20px);
       padding: 10px;
       margin-top: 10px;

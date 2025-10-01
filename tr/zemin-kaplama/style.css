@@ -1,17 +1,17 @@
 
-  .m3xuqmenumobil {
+  .kpxtkmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .m3xuqChildren {
+  .kpxtkChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .m3xuq {
+  .kpxtk {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .m3xuqtitle {
+  .kpxtktitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .m3xuqtitlebody {
+  .kpxtktitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .m3xuqtitlebodytitle {
+  .kpxtktitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .m3xuqtitlebodylang {
+  .kpxtktitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .m3xuqtitlebodylang ul {
+  .kpxtktitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .m3xuqbody {
+  .kpxtkbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .m3xuqmenulist {
+  .kpxtkmenulist {
     display: block;
     background-color: #09579a;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .m3xuqmenubody {
+  .kpxtkmenubody {
     width: 100%;
     background-color: #09579a;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .m3xuqmenulist ul {
+  .kpxtkmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .m3xuqmenulist ul a {
+  .kpxtkmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .m3xuqmenulist ul a:hover {
+  .kpxtkmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .m3xuqmenuitem {
+  .kpxtkmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .m3xuqmenuactive {
+  .kpxtkmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .m3xuqbodylogo {
+  .kpxtkbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .m3xuqmenumobil {
+    .kpxtkmenumobil {
       display: none !important;
     }
 
-    .m3xuqmenulist {
+    .kpxtkmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .m3xuqmenumobil {
+    .kpxtkmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .m3xuqmenumobil div {
+    .kpxtkmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .m3xuqmenulist {
+    .kpxtkmenulist {
       display: none;
     }
 
-    .m3xuqbody {
+    .kpxtkbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .m3xuqChildren {
+    .kpxtkChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .m3xuqmenulist ul a {
+    .kpxtkmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .m3xuqmenu {
+    .kpxtkmenu {
       overflow-x: auto;
     }
 
-    .m3xuqmenulist ul {
+    .kpxtkmenulist ul {
       flex-direction: column;
     }
 
-    .m3xuqbodylogo {
+    .kpxtkbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,13 +192,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .m3xuqmenulist ul a {
+    .kpxtkmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .yux44 {
+  .me6ns {
     width: var(--max);
     display: flex;
     flex-direction: column;
@@ -206,7 +206,7 @@
     margin-top: 20px;
   }
   @media screen and (max-width: 1024px) {
-    .yux44 {
+    .me6ns {
       width: calc(100% - 20px);
       padding: 10px;
       margin-top: 10px;
@@ -214,7 +214,7 @@
   }
 
 
-  .tfxfdbody {
+  .a2ukpbody {
     margin: 60px 0px 10px 0px;
     width: 100%;
     height: 100%;
@@ -222,14 +222,14 @@
     justify-content: center;
     align-items: center;
   }
-  .tfxfd {
+  .a2ukp {
     width: var(--max);
   }
-  .tfxfd > img {
+  .a2ukp > img {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .tfxfd {
+    .a2ukp {
       width: 100%;
     }
   }

@@ -1,17 +1,17 @@
 
-  .ies6qmenumobil {
+  .fci7fmenumobil {
     display: none;
     cursor: pointer;
   }
 
-  .ies6qChildren {
+  .fci7fChildren {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .ies6q {
+  .fci7f {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .ies6qtitle {
+  .fci7ftitle {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .ies6qtitlebody {
+  .fci7ftitlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .ies6qtitlebodytitle {
+  .fci7ftitlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .ies6qtitlebodylang {
+  .fci7ftitlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .ies6qtitlebodylang ul {
+  .fci7ftitlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .ies6qbody {
+  .fci7fbody {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .ies6qmenulist {
+  .fci7fmenulist {
     display: block;
     background-color: #09579a;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .ies6qmenubody {
+  .fci7fmenubody {
     width: 100%;
     background-color: #09579a;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .ies6qmenulist ul {
+  .fci7fmenulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .ies6qmenulist ul a {
+  .fci7fmenulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .ies6qmenulist ul a:hover {
+  .fci7fmenulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .ies6qmenuitem {
+  .fci7fmenuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .ies6qmenuactive {
+  .fci7fmenuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .ies6qbodylogo {
+  .fci7fbodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .ies6qmenumobil {
+    .fci7fmenumobil {
       display: none !important;
     }
 
-    .ies6qmenulist {
+    .fci7fmenulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .ies6qmenumobil {
+    .fci7fmenumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .ies6qmenumobil div {
+    .fci7fmenumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .ies6qmenulist {
+    .fci7fmenulist {
       display: none;
     }
 
-    .ies6qbody {
+    .fci7fbody {
       flex-direction: column;
       gap: 20px;
     }
 
-    .ies6qChildren {
+    .fci7fChildren {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .ies6qmenulist ul a {
+    .fci7fmenulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .ies6qmenu {
+    .fci7fmenu {
       overflow-x: auto;
     }
 
-    .ies6qmenulist ul {
+    .fci7fmenulist ul {
       flex-direction: column;
     }
 
-    .ies6qbodylogo {
+    .fci7fbodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,13 +192,13 @@
   }
 
   @media screen and (max-width: 768px) {
-    .ies6qmenulist ul a {
+    .fci7fmenulist ul a {
       font-size: 14px;
     }
   }
 
 
-  .xwu8x {
+  .kxckg {
     width: var(--max);
     display: flex;
     flex-direction: column;
@@ -206,7 +206,7 @@
     margin-top: 20px;
   }
   @media screen and (max-width: 1024px) {
-    .xwu8x {
+    .kxckg {
       width: calc(100% - 20px);
       padding: 10px;
       margin-top: 10px;
@@ -214,7 +214,7 @@
   }
 
 
-  .tuu45body {
+  .mt3h5body {
     margin: 60px 0px 10px 0px;
     width: 100%;
     height: 100%;
@@ -222,14 +222,14 @@
     justify-content: center;
     align-items: center;
   }
-  .tuu45 {
+  .mt3h5 {
     width: var(--max);
   }
-  .tuu45 > img {
+  .mt3h5 > img {
     width: 100%;
   }
   @media screen and (max-width: 1024px) {
-    .tuu45 {
+    .mt3h5 {
       width: 100%;
     }
   }

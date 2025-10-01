@@ -1,17 +1,17 @@
 
-  .bas3mmenumobil {
+  .j9go1menumobil {
     display: none;
     cursor: pointer;
   }
 
-  .bas3mChildren {
+  .j9go1Children {
     display: flex;
     width: var(--max);
     gap: 15px;
     align-items: end;
   }
 
-  .bas3m {
+  .j9go1 {
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -20,7 +20,7 @@
     background-color: #e9e9e9;
   }
 
-  .bas3mtitle {
+  .j9go1title {
     width: 100%;
     background-color: #333;
     display: flex;
@@ -28,7 +28,7 @@
     justify-content: center;
   }
 
-  .bas3mtitlebody {
+  .j9go1titlebody {
     color: #fff;
     width: var(--max);
     display: flex;
@@ -36,31 +36,31 @@
     padding: 10px 0px 10px 0px;
   }
 
-  .bas3mtitlebodytitle {
+  .j9go1titlebodytitle {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: left;
   }
 
-  .bas3mtitlebodylang {
+  .j9go1titlebodylang {
     width: auto;
     margin: -5px 0px -5px 0px;
   }
 
-  .bas3mtitlebodylang ul {
+  .j9go1titlebodylang ul {
     display: flex;
     gap: 5px;
   }
 
-  .bas3mbody {
+  .j9go1body {
     display: flex;
     align-items: center;
     justify-content: center;
     margin: 5px 0px 5px 0px;
   }
 
-  .bas3mmenulist {
+  .j9go1menulist {
     display: block;
     background-color: #09579a;
     padding: 10px;
@@ -69,7 +69,7 @@
     width: 100%;
   }
 
-  .bas3mmenubody {
+  .j9go1menubody {
     width: 100%;
     background-color: #09579a;
     display: flex;
@@ -77,7 +77,7 @@
     justify-content: center;
   }
 
-  .bas3mmenulist ul {
+  .j9go1menulist ul {
     width: 100%;
     list-style-type: none;
     display: flex;
@@ -87,7 +87,7 @@
     overflow-x: auto;
   }
 
-  .bas3mmenulist ul a {
+  .j9go1menulist ul a {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -99,14 +99,14 @@
     white-space: nowrap;
   }
 
-  .bas3mmenulist ul a:hover {
+  .j9go1menulist ul a:hover {
     background-color: #e0e0e0;
     border-radius: 5px;
     color: #000;
     cursor: pointer;
   }
 
-  .bas3mmenuitem {
+  .j9go1menuitem {
     padding: 8px;
     font-size: 16px;
     color: #fff;
@@ -118,30 +118,30 @@
     white-space: nowrap;
   }
 
-  .bas3mmenuactive {
+  .j9go1menuactive {
     background-color: #e0e0e0 !important;
     border-radius: 5px;
     color: #000 !important;
     font-weight: bold;
   }
 
-  .bas3mbodylogo {
+  .j9go1bodylogo {
     height: 100px;
     max-width: 90vw;
   }
 
   @media screen and (min-width: 1024px) {
-    .bas3mmenumobil {
+    .j9go1menumobil {
       display: none !important;
     }
 
-    .bas3mmenulist {
+    .j9go1menulist {
       display: flex !important;
     }
   }
 
   @media screen and (max-width: 1024px) {
-    .bas3mmenumobil {
+    .j9go1menumobil {
       display: flex;
       align-items: center;
       justify-content: end;
@@ -149,22 +149,22 @@
       width: 100%;
     }
 
-    .bas3mmenumobil div {
+    .j9go1menumobil div {
       font-size: 32px;
       color: #fff;
       padding: 5px;
     }
 
-    .bas3mmenulist {
+    .j9go1menulist {
       display: none;
     }
 
-    .bas3mbody {
+    .j9go1body {
       flex-direction: column;
       gap: 20px;
     }
 
-    .bas3mChildren {
+    .j9go1Children {
       width: 100%;
       gap: 0px;
       flex-direction: column;
@@ -172,19 +172,19 @@
       justify-content: center;
     }
 
-    .bas3mmenulist ul a {
+    .j9go1menulist ul a {
       padding: 10px 0px 10px 0px;
     }
 
-    .bas3mmenu {
+    .j9go1menu {
       overflow-x: auto;
     }
 
-    .bas3mmenulist ul {
+    .j9go1menulist ul {
       flex-direction: column;
     }
 
-    .bas3mbodylogo {
+    .j9go1bodylogo {
       max-height: 50vw;
       max-width: 50vw;
       max-height: 100px;
@@ -192,7 +192,7 @@
   }
 
   @media screen and (max-width: 768px) {
-    .bas3mmenulist ul a {
+    .j9go1menulist ul a {
       font-size: 14px;
     }
   }
@@ -235,7 +235,7 @@
         }
   
 
-  .t1foz {
+  .jnryh {
     width: var(--max);
     display: flex;
     flex-direction: column;
@@ -243,7 +243,7 @@
     margin-top: 20px;
   }
   @media screen and (max-width: 1024px) {
-    .t1foz {
+    .jnryh {
       width: calc(100% - 20px);
       padding: 10px;
       margin-top: 10px;

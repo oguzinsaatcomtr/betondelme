@@ -275,7 +275,8 @@
         "footer": []
       },
       "modulestatus": {
-        "detail": true
+        "detail": true,
+        "bgimg": true
       }
     }
   ]
