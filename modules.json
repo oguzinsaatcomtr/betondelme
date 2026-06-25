@@ -42,52 +42,19 @@
     },
     {
       "index": 2,
-      "name": "Menü",
+      "name": "Menü 4",
       "path": "menu-4",
       "desing": {
+        "color": "#000",
         "logo": "logo.png",
-        "color": "#09579a",
         "height": "100px",
         "background-color": "#e9e9e9"
       },
       "id": "ehvw06",
       "local": "header",
       "category": "menu",
-      "data": [
-        {
-          "name": {
-            "tr": "Bizi hemen arayın"
-          },
-          "spot": "+90 342 221 00 02",
-          "icon": "phone",
-          "externalUrl": "",
-          "titlecolor": "#000",
-          "spotcolor": "#000",
-          "iconcolor": "#000"
-        },
-        {
-          "name": {
-            "tr": "Bize yazın"
-          },
-          "spot": "info@{{domain}}",
-          "icon": "mail",
-          "url": "info@{{domain}}",
-          "titlecolor": "#000",
-          "spotcolor": "#000",
-          "iconcolor": "#000"
-        },
-        {
-          "name": {
-            "tr": "İncilipınar Mah. Şehit Yusuf Erin Cad."
-          },
-          "spot": "Çayırlı İş Mrk. B Blok Kat:6 No:22 Gaziantep",
-          "icon": "location_on",
-          "externalUrl": "",
-          "titlecolor": "#000",
-          "spotcolor": "#000",
-          "iconcolor": "#000"
-        }
-      ]
+      "version": "1.0.0",
+      "icon": "menu"
     },
     {
       "path": "contact",
@@ -130,21 +97,21 @@
       },
       "id": "rq5be6",
       "local": "body",
-      "category": "page list"
+      "category": "page-list"
     },
     {
-      "path": "page-text",
-      "name": "Text",
       "index": 5,
+      "name": "Text",
+      "path": "page-text",
       "id": "bgnl7x",
       "local": "body",
       "desing": {
-        "height": "200",
+        "height": "100",
         "opacity": "0.5",
         "font-size": "50",
-        "backgroundcolor": "#000",
-        "menu-active": "#1e3046",
-        "category": "page"
+        "backgroundcolor": "#09579a",
+        "category": "page",
+        "textcolor": "#fff"
       },
       "category": "page"
     },
@@ -245,11 +212,13 @@
         "height": "100",
         "opacity": "0.5",
         "font-size": "32",
-        "backgroundcolor": "#000",
+        "backgroundcolor": "#09579a",
         "menu-active": "#09579a",
-        "category": "kurumsal"
+        "textcolor": "#fff"
       },
-      "id": "lqj4q4"
+      "id": "lqj4q4",
+      "version": "1.2.0",
+      "icon": "web"
     }
   ]
 }

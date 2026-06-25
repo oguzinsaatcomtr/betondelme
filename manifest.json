@@ -1,0 +1,29 @@
+{
+  "name": "Oğuz inşaat Gaziantep",
+  "short_name": "Oğuz inşaat",
+  "description": "Profesyonel beton delme ve kesme hizmetleri sunan firmamız, inşaat projeleriniz için hızlı ve güvenilir çözümler sunar. Beton delme, kesme ve kırma işlemlerinde en son teknolojiyi kullanarak uygun fiyatlarla hizmet veriyoruz. Daha fazla bilgi ve fiyat teklifi almak için hemen bizimle iletişime geçin!",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
