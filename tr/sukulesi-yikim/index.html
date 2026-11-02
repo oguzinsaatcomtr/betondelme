@@ -35,17 +35,17 @@
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/rubik/rubik-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/rubik.css?v=jif31" />
-  <link rel="stylesheet" href="/src/css.css?v=jif31" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=jif31" />
+  <link rel="stylesheet" href="/src/rubik.css?v=xrijp" />
+  <link rel="stylesheet" href="/src/css.css?v=xrijp" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=xrijp" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=jif31" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=xrijp" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=jif31" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=xrijp" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=jif31" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=jif31" />
-  <link rel="shortcut icon" href="/img/icon.png?v=jif31" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=xrijp" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=xrijp" />
+  <link rel="shortcut icon" href="/img/icon.png?v=xrijp" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -118,7 +118,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=jif31">
+<link rel="stylesheet" href="style.css?v=xrijp">
 </head>
 
 <body>
@@ -153,7 +153,7 @@
   <div class="h0000Children">
     <div class="h0000body">
       <a href="/tr/" aria-label="Anasayfa - Oğuz inşaat Gaziantep" title="Anasayfa - Oğuz inşaat Gaziantep">
-        <img src="/img/logo.png?v=jd40j" class="h0000bodylogo" alt="Oğuz inşaat Gaziantep Logo" loading="lazy" />
+        <img src="/img/logo.png?v=a3xi2" class="h0000bodylogo" alt="Oğuz inşaat Gaziantep Logo" loading="lazy" />
       </a>
     </div>
     <button class="h0000menumobil" type="button" aria-label="Menüyü Aç/Kapat" aria-expanded="false" aria-controls="h0000menulist">
@@ -182,6 +182,7 @@
     var menu = document.querySelector(".h0000menulist");
     var overlay = document.querySelector(".h0000menuoverlay");
     var closeButton = document.querySelector(".h0000menuclose");
+
     function openMenu() {
       if (menu && overlay) {
         menu.classList.add("active");
@@ -190,6 +191,7 @@
         if (menuButton) {
           menuButton.setAttribute("aria-expanded", "true");
         }
+
         document.body.style.overflow = "hidden";
       }
     }
@@ -202,7 +204,9 @@
         if (menuButton) {
           menuButton.setAttribute("aria-expanded", "false");
         }
+
         document.body.style.overflow = "";
+
         if (menuButton) {
           menuButton.focus();
         }
@@ -210,6 +214,7 @@
     }
     
     if (menuButton && menu && overlay) {
+
       menuButton.addEventListener("click", function () {
         var isExpanded = menuButton.getAttribute("aria-expanded") === "true";
         if (isExpanded) {
@@ -218,14 +223,17 @@
           openMenu();
         }
       });
+
       if (closeButton) {
         closeButton.addEventListener("click", function () {
           closeMenu();
         });
       }
+
       overlay.addEventListener("click", function () {
         closeMenu();
       });
+
       menuButton.addEventListener("keydown", function (e) {
         if (e.key === "Enter" || e.key === " ") {
           e.preventDefault();
@@ -237,6 +245,7 @@
           }
         }
       });
+
       document.addEventListener("keydown", function (e) {
         if (e.key === "Escape" && menuButton.getAttribute("aria-expanded") === "true") {
           closeMenu();
@@ -322,10 +331,10 @@
 </script>
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=jif31"></script>
-  <script defer src="/src/mx-store.js?v=jif31"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=jif31"></script>
-  <script defer src="/src/cookie.js?v=jif31"></script>
+  <script defer src="/src/mx-ui.js?v=xrijp"></script>
+  <script defer src="/src/mx-store.js?v=xrijp"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=xrijp"></script>
+  <script defer src="/src/cookie.js?v=xrijp"></script>
 
 </body>
 
