@@ -1,0 +1,35 @@
+# Oğuz inşaat Gaziantep
+
+> Profesyonel beton delme ve kesme hizmetleri sunan firmamız, inşaat projeleriniz için hızlı ve güvenilir çözümler sunar. Beton delme, kesme ve kırma işlemlerinde en son teknolojiyi kullanarak uygun fiyatlarla hizmet veriyoruz. Daha fazla bilgi ve fiyat teklifi almak için hemen bizimle iletişime geçin!
+
+Web: https://oguzinsaat.com.tr/tr/
+
+## Sayfalar
+- [Oğuz inşaat Gaziantep](https://oguzinsaat.com.tr/tr/): Profesyonel beton delme ve kesme hizmetleri sunan firmamız, inşaat projeleriniz için hızlı ve güvenilir çözümler sunar.
+- [Kurumsal](https://oguzinsaat.com.tr/tr/hakkimizda/)
+- [Hizmetlerimiz](https://oguzinsaat.com.tr/tr/hizmetlerimiz/)
+- [İletişim](https://oguzinsaat.com.tr/tr/iletisim/)
+- [Beton Kesme](https://oguzinsaat.com.tr/tr/beton-kesme/)
+- [Karot Delme](https://oguzinsaat.com.tr/tr/karot-delme/)
+- [Beton Kırma](https://oguzinsaat.com.tr/tr/beton-kirma/)
+- [Fiber](https://oguzinsaat.com.tr/tr/fiber/)
+- [Kimyasal Dübel Filiz Ekimi](https://oguzinsaat.com.tr/tr/kimyasal-dubel-filiz-ekimi/)
+- [Saha Betonu](https://oguzinsaat.com.tr/tr/saha-betonu/)
+- [Spor Sahası](https://oguzinsaat.com.tr/tr/spor-sahasi/)
+- [Sukulesi Yıkım](https://oguzinsaat.com.tr/tr/sukulesi-yikim/)
+- [Şap ve Bina Tevsiye](https://oguzinsaat.com.tr/tr/sap-ve-bina-tevsiye/)
+- [Yalıtım](https://oguzinsaat.com.tr/tr/yalitim/)
+- [Zemin Kaplama](https://oguzinsaat.com.tr/tr/zemin-kaplama/)
+- [Hakkımızda](https://oguzinsaat.com.tr/tr/hakkimizda/)
+- [Misyon](https://oguzinsaat.com.tr/tr/misyon/)
+- [Vizyon](https://oguzinsaat.com.tr/tr/vizyon/)
+- [Kalite Politikamız](https://oguzinsaat.com.tr/tr/kalite-politikamiz/)
+- [Gizlilik Politikası](https://oguzinsaat.com.tr/tr/gizlilik-politikasi/)
+- [Kişisel Veriler](https://oguzinsaat.com.tr/tr/kisisel-veriler/)
+- [Kullanıcı Hakları](https://oguzinsaat.com.tr/tr/kullanici-haklari/)
+- [Yasal Uyarı](https://oguzinsaat.com.tr/tr/yasal-uyari/)
+- [Çerez Politikası](https://oguzinsaat.com.tr/tr/cerez-politikasi/): Bu politika, Oğuz inşaat Gaziantep tarafından işletilen oguzinsaat.com.tr internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını…
+
+## Diger
+- [sitemap.xml](https://oguzinsaat.com.tr/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://oguzinsaat.com.tr/llms-full.txt): sayfa govdeleri duz metin

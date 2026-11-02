@@ -171,6 +171,27 @@
       },
       "desc": {},
       "bgimg": "1.jpg"
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası"
+      },
+      "description": {
+        "tr": "Bu politika, Oğuz inşaat Gaziantep tarafından işletilen oguzinsaat.com.tr internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını…"
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "bgnl7x"
+        ],
+        "footer": []
+      },
+      "index": 8
     }
   ],
   "index": 2,

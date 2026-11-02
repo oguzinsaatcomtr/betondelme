@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
         <loc>https://oguzinsaat.com.tr/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2026-09-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -13,7 +14,7 @@
         <loc>https://oguzinsaat.com.tr/tr/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2026-09-25</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -21,7 +22,7 @@
         <loc>https://oguzinsaat.com.tr/tr/hakkimizda/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/hakkimizda/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -29,7 +30,7 @@
         <loc>https://oguzinsaat.com.tr/tr/hizmetlerimiz/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/hizmetlerimiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/hizmetlerimiz/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -37,7 +38,7 @@
         <loc>https://oguzinsaat.com.tr/tr/iletisim/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/iletisim/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -45,7 +46,7 @@
         <loc>https://oguzinsaat.com.tr/tr/beton-kesme/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/beton-kesme/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/beton-kesme/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -53,7 +54,7 @@
         <loc>https://oguzinsaat.com.tr/tr/karot-delme/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/karot-delme/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/karot-delme/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -61,7 +62,7 @@
         <loc>https://oguzinsaat.com.tr/tr/beton-kirma/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/beton-kirma/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/beton-kirma/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -69,7 +70,7 @@
         <loc>https://oguzinsaat.com.tr/tr/fiber/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/fiber/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/fiber/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -77,7 +78,7 @@
         <loc>https://oguzinsaat.com.tr/tr/kimyasal-dubel-filiz-ekimi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/kimyasal-dubel-filiz-ekimi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/kimyasal-dubel-filiz-ekimi/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -85,7 +86,7 @@
         <loc>https://oguzinsaat.com.tr/tr/saha-betonu/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/saha-betonu/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/saha-betonu/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -93,7 +94,7 @@
         <loc>https://oguzinsaat.com.tr/tr/spor-sahasi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/spor-sahasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/spor-sahasi/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -101,7 +102,7 @@
         <loc>https://oguzinsaat.com.tr/tr/sukulesi-yikim/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/sukulesi-yikim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/sukulesi-yikim/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -109,7 +110,7 @@
         <loc>https://oguzinsaat.com.tr/tr/sap-ve-bina-tevsiye/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/sap-ve-bina-tevsiye/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/sap-ve-bina-tevsiye/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -117,7 +118,7 @@
         <loc>https://oguzinsaat.com.tr/tr/yalitim/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/yalitim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/yalitim/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -125,7 +126,7 @@
         <loc>https://oguzinsaat.com.tr/tr/zemin-kaplama/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/zemin-kaplama/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/zemin-kaplama/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -133,7 +134,7 @@
         <loc>https://oguzinsaat.com.tr/tr/hakkimizda/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/hakkimizda/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -141,7 +142,7 @@
         <loc>https://oguzinsaat.com.tr/tr/misyon/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/misyon/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -149,7 +150,7 @@
         <loc>https://oguzinsaat.com.tr/tr/vizyon/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/vizyon/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -157,7 +158,7 @@
         <loc>https://oguzinsaat.com.tr/tr/kalite-politikamiz/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/kalite-politikamiz/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/kalite-politikamiz/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -165,7 +166,7 @@
         <loc>https://oguzinsaat.com.tr/tr/gizlilik-politikasi/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/gizlilik-politikasi/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/gizlilik-politikasi/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -173,7 +174,7 @@
         <loc>https://oguzinsaat.com.tr/tr/kisisel-veriler/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/kisisel-veriler/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/kisisel-veriler/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -181,7 +182,7 @@
         <loc>https://oguzinsaat.com.tr/tr/kullanici-haklari/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/kullanici-haklari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/kullanici-haklari/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -189,7 +190,15 @@
         <loc>https://oguzinsaat.com.tr/tr/yasal-uyari/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/yasal-uyari/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/yasal-uyari/" />
-        <lastmod>2026-06-25</lastmod>
+        <lastmod>2025-10-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://oguzinsaat.com.tr/tr/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://oguzinsaat.com.tr/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://oguzinsaat.com.tr/tr/cerez-politikasi/" />
+        <lastmod>2026-11-02</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
